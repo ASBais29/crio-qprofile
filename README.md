@@ -1,4 +1,3 @@
 # crio-qprofile
 
-Deployed on Netlify.
-Link: https://asbais.netlify.app/
+Deployed on Netlify. https://asbais.netlify.app/
